@@ -1,0 +1,30 @@
+{
+  "name": "todoDemo",
+  "version": "0.0.0",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "shawn",
+    "demo"
+  ],
+  "authors": [
+    "Shawn Morgan"
+  ],
+  "license": "MIT",
+  "homepage": "http://google.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "1.9.1",
+    "backbone": "~1.2.1"
+  },
+  "devDependencies": {
+    "karma": "~0.4.6"
+  }
+}
